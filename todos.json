@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn Python Requests Module",
+      "completed": "completed"
+    },
+    {
+      "id": 2,
+      "title": "Learn Python session object",
+      "completed": "completed"
+    },
+    {
+      "id": "3",
+      "title": "Learn Python Requests Module",
+      "completed": "completed"
+    },
+    {
+      "title": "Exploring new things",
+      "completed": "completed",
+      "id": "4378"
+    },
+    {
+      "id": "bc53",
+      "title": "Learn Python Requests Module",
+      "completed": "not completed"
+    }
+  ]
+}
